@@ -2,15 +2,11 @@
 > Web application that allows you to be up to date with current cryptocurrency prices.
 
 ## Table of contents
-* [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Contact](#contact)
-
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
 ![Example screenshot](./img/screen3.png)

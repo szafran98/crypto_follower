@@ -1,6 +1,8 @@
 # Crypto Follower
 > Web application that allows you to be up to date with current cryptocurrency prices.
 
+> Live: https://cryptofollowervue.herokuapp.com/
+
 ## Table of contents
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
@@ -19,7 +21,7 @@
 * Vue - version 2.6.11
 
 ## Setup
-1. Clone repository `git clone`
+1. Clone repository `git clone https://github.com/szafran98/crypto_follower`
 
 2. Install Django dependencies `pip install -r requirements.txt`
 
